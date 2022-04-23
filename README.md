@@ -1,6 +1,10 @@
-# CmanGOS_Mall
+# MaNGOS1 Mall
 
-### Tomatoes' Scarlet Mall updated
+### Tomatoes' Scarlet Mall updated for MaNGOS1
+
+### ==================== IMPORTANT TO READ BEFORE PROCEEDING! ====================
+### NOTE: I HAVE ONLY UPDATED THE `Tomatoes_Mall_Install_1.2.sql` I HAVE NOT UPDATED ANY OTHER FILES (FOR EXAMPLE: THE UNINSTALL.SQL OR ANY `custom_start` SQLS)
+### ==================== IMPORTANT TO READ BEFORE PROCEEDING! ====================
 
 ## Includes:
 ```
@@ -131,12 +135,10 @@ Gems of every color and Metas
 
 ### Installation:
 ```
-* Extract the Zip
 * Execute Tomatoes_Mall_Install.sql
 ```
 
 ### Uninstallation:
 ```
-* Extract the Zip
 * Execute Tomatoes_Mall_Uninstall.sql ONCE
 ```
